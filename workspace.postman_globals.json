@@ -1,0 +1,33 @@
+{
+	"id": "61bdd4cd-d680-4e24-808a-e998b026cfcb",
+	"values": [
+		{
+			"key": "globalID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalEmail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "gToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-05-29T06:37:00.029Z",
+	"_postman_exported_using": "Postman/11.1.14"
+}
